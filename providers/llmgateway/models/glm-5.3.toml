@@ -1,0 +1,7 @@
+base_model = "zhipuai/glm-5.3"
+
+[cost]
+input = 1
+output = 3
+cache_read = 0.1
+cache_write = 1.25
